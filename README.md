@@ -51,22 +51,22 @@ A simple Flask-based web interface was built to: <br>
 - Predict and display whether the message is spam or not
 The UI is clean and user-friendly, with HTML templates and external CSS for styling. <br>
 ## 📁 Project Structure<br>
-text-classifier/
-│
-├── app.py
-├── train.py
-├── model.pkl
-├── vectorizer.pkl
-├── requirements.txt
-│
-├── templates/
-│   └── index.html
-│
-├── static/
-│   └── style.css
-│
-└── data/
-    └── spam.csv
+text-classifier/<br>
+│<br>
+├── app.py <br>
+├── train.py<br>
+├── model.pkl<br>
+├── vectorizer.pkl<br>
+├── requirements.txt<br>
+│<br>
+├── templates/<br>
+│   └── index.html<br>
+│<br>
+├── static/<br>
+│   └── style.css<br>
+│<br>
+└── data/<br>
+    └── spam.csv<br>
 ## ▶️ How to Run the Project<br>
 # 1️⃣ Clone the repository<br>
 - git clone https://github.com/jathin-mygit/Spam-Detection.git <br>
