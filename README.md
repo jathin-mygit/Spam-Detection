@@ -97,5 +97,5 @@ Open your browser and go to: <br>
 ![not spam](/images/not_spam.png)
 - When spam message is given
 ![spam](/images/spam.png)
--Report of the model
+- Report of the model
 ![Report](/images/accuracy.png)
